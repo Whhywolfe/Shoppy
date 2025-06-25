@@ -1,0 +1,10 @@
+environment:
+  variables:
+    API_KEY: "AIzaSyAN78qpu97WbcOnYGvhyIClgN9DMQF3bE8"
+    AUTH_DOMAIN: "skyhigh-sim.firebaseapp.com"
+    PROJECT_ID: "skyhigh-sim"
+    STORAGE_BUCKET: "skyhigh-sim.firebasestorage.app"
+    MESSAGING_SENDER_ID: "910755904642"
+    APP_ID: "1:910755904642:web:272fc950977e1af172889b"
+    MEASUREMENT_ID: "G-K5P502R25H"
+    NEXT_PUBLIC_ADMIN_PHONE_NUMBERS: "+917014873689"
